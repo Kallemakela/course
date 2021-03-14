@@ -5,9 +5,10 @@
   color: #4AF626;
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   max-width: 600px;
+  margin: 2em;
 }
 
 .list {
   text-align: left;
-  margin-top: 2em;
+  margin: 2em 0;
 }
